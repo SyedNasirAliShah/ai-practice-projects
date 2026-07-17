@@ -12,7 +12,7 @@ The goal of this workspace is to document my journey from foundational concepts 
 - **Independent Problem Solving:** **All module challenges, capstones, and project variants within this repository are completely solved by me on my own**, focusing on robust engineering and custom model optimizations.
 
 
-## 🛠️ Tech Stack & AI Ecosystem
+## Tech Stack & AI Ecosystem
 
 This repository leverages the core industry-standard libraries, algorithms, and frameworks for Data Science, Machine Learning, and Deep Learning:
 
@@ -31,9 +31,6 @@ git clone https://github.com/SyedNasirAliShah/ai-practice-projects.git
 ```bash
 pip install -r requirements.txt
 ```
-
-
----
 
 ## Author
 
