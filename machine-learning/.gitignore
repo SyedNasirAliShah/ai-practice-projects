@@ -1,6 +1,0 @@
-# ignoring Jupyter autosave checkpoints
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
-
-# ignores heavy trained model binaries
-**/models/*.pkl

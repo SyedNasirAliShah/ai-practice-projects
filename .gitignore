@@ -1,0 +1,11 @@
+# Ignoring Jupyter autosave checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignores heavy trained model binaries
+**/models/*.pkl
+
+# Ignore all deep learning model weights globally
+*.pt
+*.h5
+*.keras
